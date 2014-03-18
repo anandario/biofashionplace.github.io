@@ -233,7 +233,7 @@ body {
 	width:100%;
     position: absolute;
 	top: 0;
-	left: 0;
+	left: 1;
 	padding: 4% 0;
 	z-index: 1;
     opacity: 0;
@@ -641,7 +641,6 @@ body {
 	width: 14.33333%;
 }
 .copy{
-	float: right;
 	width: 46.33333%;
 	margin-left: 2.33333%;
 	margin-top: 1.8%;
@@ -651,7 +650,6 @@ body {
 	margin:2px 0;
 }
 .copy p{
-	text-transform:uppercase;
 	color: #555555;
 	font-size: 0.8725em;
 	line-height: 1.8em;
