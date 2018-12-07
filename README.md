@@ -1,6 +1,6 @@
 # biofashionplace.github.io
 
-:black_joker: My first website, for my Fashion MBA final project (2014). Based on a template.
+My first website, for my Fashion MBA final project (2014). Based on a template.
 
 ## Install
 
