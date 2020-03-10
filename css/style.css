@@ -555,6 +555,9 @@ body {
 	line-height: 2em;
 }
 /*--- social-icons ----*/
+.rrss {
+	color:#F8B156;
+}
 .social-icons {
 	margin-top: 3.33333%;
 }
